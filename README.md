@@ -1,1 +1,1 @@
-My sollutions at codingame.com
+My solutions at codingame.com
